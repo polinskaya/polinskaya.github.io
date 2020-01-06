@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Realese.data.unityweb",
+"asmCodeUrl": "Realese.asm.code.unityweb",
+"asmMemoryUrl": "Realese.asm.memory.unityweb",
+"asmFrameworkUrl": "Realese.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

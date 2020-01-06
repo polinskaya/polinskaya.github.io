@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 0fb9dff34ae719449bc9ca1aef18c185
+timeCreated: 1573240186
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box006
+    100008: Box007
+    100010: Box008
+    100012: Box009
+    100014: Box010
+    100016: Box011
+    100018: Box012
+    100020: Cylinder001
+    100022: Line001
+    100024: Sphere001
+    100026: Torus002
+    100028: Torus003
+    100030: Torus004
+    100032: Torus005
+    100034: Torus006
+    100036: Tube001
+    100038: Tube002
+    100040: //RootNode
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box006
+    400008: Box007
+    400010: Box008
+    400012: Box009
+    400014: Box010
+    400016: Box011
+    400018: Box012
+    400020: Cylinder001
+    400022: Line001
+    400024: Sphere001
+    400026: Torus002
+    400028: Torus003
+    400030: Torus004
+    400032: Torus005
+    400034: Torus006
+    400036: Tube001
+    400038: Tube002
+    400040: //RootNode
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box006
+    2300008: Box007
+    2300010: Box008
+    2300012: Box009
+    2300014: Box010
+    2300016: Box011
+    2300018: Box012
+    2300020: Cylinder001
+    2300022: Line001
+    2300024: Sphere001
+    2300026: Torus002
+    2300028: Torus003
+    2300030: Torus004
+    2300032: Torus005
+    2300034: Torus006
+    2300036: Tube001
+    2300038: Tube002
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box006
+    3300008: Box007
+    3300010: Box008
+    3300012: Box009
+    3300014: Box010
+    3300016: Box011
+    3300018: Box012
+    3300020: Cylinder001
+    3300022: Line001
+    3300024: Sphere001
+    3300026: Torus002
+    3300028: Torus003
+    3300030: Torus004
+    3300032: Torus005
+    3300034: Torus006
+    3300036: Tube001
+    3300038: Tube002
+    4300000: Box001
+    4300002: Box002
+    4300004: Sphere001
+    4300006: Box003
+    4300008: Box006
+    4300010: Box007
+    4300012: Box008
+    4300014: Torus002
+    4300016: Box009
+    4300018: Box010
+    4300020: Box011
+    4300022: Box012
+    4300024: Torus003
+    4300026: Torus004
+    4300028: Torus005
+    4300030: Torus006
+    4300032: Tube001
+    4300034: Tube002
+    4300036: Cylinder001
+    4300038: Line001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: bc13f5b848810f0488edb09aebaf73dd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
